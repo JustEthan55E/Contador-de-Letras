@@ -11,7 +11,7 @@ int main()
 
 	size_t letras = strlen(palavra);
 
-	for (int i = 0; i < (int)letras; i++)
+	for (int i = 0; i < letras; i++)
 	{
 		char letra = palavra[i];
 		if (letra == 'a' || letra == 'e' || letra == 'i' || letra == 'o' || letra == 'u' ||
