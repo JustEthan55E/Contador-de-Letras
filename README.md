@@ -9,7 +9,7 @@ Este projeto é um contador de letras, o programa pede uma palavra ao utilizador
 
 ## O que este projeto me ajudou a aprender?
 Este projeto ajudou-me a reforçar as seguintes competências:
-- Variáveis: Para definir o tipo de dado a ser inserido;
+- Tipos de dados: Para definir os dados a serem inseridos;
 - Funções *printf()* e *scanf()*: Para exibir mensagens e recolher dados do utilizador;
 - Função *strlen*: Para obter os caracteres da string dada pelo utilizador;
 - Ciclo *for*: Para ler os caracteres um-a-um;
